@@ -2,7 +2,7 @@ Hi there I'm Ayfer 👋
 
 🔭 I have a master's degree in business administration from Okan University.
 
-📚 I’m currently learning frontend web development using Html, Css and Javascript.
+📚 I’m currently learning frontend web development using Html, Css, Javascript and java
 
 💻 Most of my time is spent coding
 
