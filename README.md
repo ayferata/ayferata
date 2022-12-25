@@ -4,7 +4,9 @@ Hi there I'm Ayfer 👋
 
 📚 I'am currently developing Html, Css, Javascript and java
 
-💻 Most of my time is spent coding
+💻 Most of my time is spent coding 🚀
+
+ 💪 2023 goals : To bring out quality projects.
 
 🌎 I like traveling and nature.
 
