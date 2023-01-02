@@ -10,5 +10,5 @@ Hi there I'm Ayfer 👋
 
 🌎 I like traveling and nature.
 
-📫 How to reach me: aaayferata@gmail.com
+📫 How to reach me : aaayferata@gmail.com
 
